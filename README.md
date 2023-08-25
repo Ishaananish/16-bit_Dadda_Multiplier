@@ -31,7 +31,7 @@ To simulate and synthesize the 16-bit Dadda multiplier, you'll need:
 
    ```bash
    git clone https://github.com/Ishaananish/16-bit_Dadda_Multiplier.git
-   cd 6-bit_Dadda_Multiplier
+   cd 16-bit_Dadda_Multiplier
    ```
 
 2. Open the project in Intel Quartus Prime.
